@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning advanced cybersecurity techniques and tools.
 - 💞️ I’m looking to collaborate on cybersecurity projects and internships to gain real-world experience.
 - 📫 How to reach me prakruteedash@gmail.com
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I have completed TryHackMe rooms and the Google Cybersecurity Foundation Certificate.
