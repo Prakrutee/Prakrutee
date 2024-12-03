@@ -2,6 +2,6 @@
 - 💻 Proficient in: C, Python, and HTML
 - 👀 I’m interested in ethical hacking and exploring various cybersecurity domains.
 - 🌱 I’m currently learning advanced cybersecurity techniques and tools.
-- 💞️ I’m looking to collaborate on cybersecurity projects and internships to gain real-world experience.
+- 🖥️ I’m looking to collaborate on cybersecurity projects and internships to gain real-world experience.
 - 📫 How to reach me prakruteedash@gmail.com
 - ⚡ Fun fact: I have completed TryHackMe rooms and the Google Cybersecurity Foundation Certificate.
